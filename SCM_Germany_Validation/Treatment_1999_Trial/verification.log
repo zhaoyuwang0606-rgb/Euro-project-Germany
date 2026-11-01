@@ -1,0 +1,32 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning messages:
+1: package 'ggplot2' was built under R version 4.5.2 
+2: package 'tidyr' was built under R version 4.5.2 
+# A tibble: 19 x 10
+   Suite          Pre_RMSPE Post_RMSPE Post_Mean_Gap Mean_Gap_1999_2007 Gap_2007
+   <chr>              <dbl>      <dbl>         <dbl>              <dbl>    <dbl>
+ 1 07_Treat1999     4.46e-2    3.93e-1       0.321              0.119    1.06e-1
+ 2 07_Treat1999     3.44e-2    2.12e-1       0.123              0.00424  1.74e-1
+ 3 07_Treat1999     6.63e-2    8.49e-1       0.674              0.151    3.66e-1
+ 4 08_Treat1999     2.84e-2    4.23e-2      -0.0378            -0.0455  -6.16e-2
+ 5 08_Treat1999     1.47e-2    9.27e-2       0.0815             0.0750   1.61e-1
+ 6 08_Treat1999     2.39e-2    3.63e-2      -0.0253            -0.0125  -3.92e-2
+ 7 08_Treat1999     1.72e-2    5.38e-2      -0.0417            -0.00852 -5.81e-2
+ 8 08_Treat1999     6.77e-3    1.90e-2      -0.0176            -0.0136  -2.37e-2
+ 9 09_Treat1999_~   7.23e-2    3.66e-1      -0.303             -0.172   -2.63e-1
+10 09_Treat1999_~   5.82e-2    1.19e+0      -1.04              -0.494   -9.13e-1
+11 09_Treat1999_~   1.16e-1    1.54e+0      -1.35              -0.666   -1.18e+0
+12 09_Treat1999_~   1.47e+3    2.81e+4   22564.              5929.       1.11e+4
+13 09_Treat1999_~   1.66e+3    3.46e+4  -30515.            -17006.      -2.53e+4
+14 09_Treat1999_~   1.81e+3    1.26e+4   -7951.            -11077.      -1.42e+4
+15 10_Treat1999     2.23e-2    4.04e-2      -0.0363            -0.0301  -5.78e-2
+16 10_Treat1999     7.99e-3    1.38e-1       0.126              0.0698   1.40e-1
+17 10_Treat1999     8.77e-3    5.46e-2      -0.0468            -0.0208  -4.28e-2
+18 10_Treat1999     1.83e-2    4.19e-2      -0.0366            -0.0212  -5.59e-2
+19 10_Treat1999     1.19e-2    9.12e-3      -0.00690           -0.00671 -1.10e-2
+# i 4 more variables: MSPE_Ratio <dbl>, Metric <chr>, Placebo_P_Value <dbl>,
+#   Placebo_N <dbl>

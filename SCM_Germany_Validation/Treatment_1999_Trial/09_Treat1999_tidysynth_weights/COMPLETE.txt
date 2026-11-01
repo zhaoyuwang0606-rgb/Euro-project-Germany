@@ -1,0 +1,1 @@
+Complete: six outcomes; original GDP tidysynth weights, Taiwan excluded and remaining weights renormalized. GDP denominator is Maddison real PPP size, not nominal GDP.

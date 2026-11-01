@@ -1,0 +1,6 @@
+script,depends_on,reason
+SCM_Analysis/noneu SCM result/run_scm_noneu.R,mpd2023_web.xlsx,Primary data source
+results_did_to_2007/run_did_to_2007.R,mpd2023_web.xlsx,Primary data source
+SCM_Germany_Validation/03_FDI_Validation_Suite/run_fdi_suite.R,SCM_Germany_Validation/03_FDI_Validation_Suite/Full_NonEU_OECD_Panel.csv,Secondary panel data
+SCM_Germany_Validation/07_China_WTO_Trade_Suite/run_china_wto_trade_scm.R,SCM_Germany_Validation/07_China_WTO_Trade_Suite/Biliteral trade with China.csv,IMF trade data
+Replication/Code/run_replication_tidysynth.R,Replication/Data/Analysis_Annual.dta,Stata-formatted panel data

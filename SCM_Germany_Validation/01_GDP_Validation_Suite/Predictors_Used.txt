@@ -1,0 +1,10 @@
+Predictors used in GDP Validation Suite:
+----------------------------------------
+1. Average_gdppc: Mean GDP per capita over pre-treatment window
+2. Gdp_size: Mean total GDP size (gdppc * pop) over pre-treatment window
+3. Population_size: Mean population over pre-treatment window
+4. GDPpc_growth: Mean annual GDPpc growth rate over pre-treatment window
+5. Pop_growth: Mean annual population growth rate over pre-treatment window
+6. GDPpc_start: GDPpc level at min(pre_window) [1970]
+7. GDPpc_pre_treat: GDPpc level at (treat_year - 1)
+8. GDPpc1985, GDPpc1986, GDPpc1987, GDPpc1988: Fixed pre-reunification GDPpc anchor lags

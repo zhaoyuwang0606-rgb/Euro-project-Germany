@@ -1,0 +1,7 @@
+id,folder,start,treatment
+Wide_Pre1970_1998,SCM_Results wide panel,1970,1999
+NonEU_Pre1970_1998,noneu SCM result,1970,1999
+Western_Pre1970_1998,western SCM result,1970,1999
+NonEU_Start1950_Treat1999,TimeRob_noneu_Start1950_Treat1999,1950,1999
+NonEU_Start1970_Treat1990,TimeRob_noneu_Start1970_Treat1990,1970,1990
+NonEU_Start1970_Treat2002,TimeRob_noneu_Start1970_Treat2002,1970,2002

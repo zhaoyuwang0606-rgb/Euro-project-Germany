@@ -1,0 +1,5 @@
+"variable","best_treat_year","max_mspe_ratio","germany_rank","total_units","joint_p_value"
+"fdi_outflows_pct",1996,44.8191418640357,1,12,0.0833333333333333
+"asinh_outflows_pct",1993,20.5947225433101,3,12,0.25
+"fdi_inflows_pct",1995,16.8153963870146,3,12,0.25
+"asinh_inflows_pct",1995,13.2094715053951,3,12,0.25

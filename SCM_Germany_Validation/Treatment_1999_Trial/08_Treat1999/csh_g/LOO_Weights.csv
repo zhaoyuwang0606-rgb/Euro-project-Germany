@@ -1,0 +1,92 @@
+excluded,unit_num,weight,country
+"China, Hong Kong SAR",1,1.7122143999171856e-7,Australia
+"China, Hong Kong SAR",2,4.756877171707023e-9,Canada
+"China, Hong Kong SAR",3,3.6490851602192e-6,Chile
+"China, Hong Kong SAR",5,0.03593879487587367,Colombia
+"China, Hong Kong SAR",6,1.5828351912047203e-5,Costa Rica
+"China, Hong Kong SAR",8,2.512910133334572e-4,Israel
+"China, Hong Kong SAR",9,0.6206962629429031,Japan
+"China, Hong Kong SAR",10,0.33228691250147235,New Zealand
+"China, Hong Kong SAR",11,1.6174631256062055e-4,Republic of Korea
+"China, Hong Kong SAR",12,5.775697432773823e-7,Singapore
+"China, Hong Kong SAR",13,1.2410747575202397e-6,"Taiwan, Province of China"
+"China, Hong Kong SAR",14,2.6051056302267128e-6,Turkey
+"China, Hong Kong SAR",15,0.010640915189710866,United States
+Colombia,1,1.88898194519861e-5,Australia
+Colombia,2,2.161610705315488e-5,Canada
+Colombia,3,1.1391317090081107e-6,Chile
+Colombia,4,0.048672204642424326,"China, Hong Kong SAR"
+Colombia,6,1.369473547411116e-6,Costa Rica
+Colombia,8,0.014627337385743214,Israel
+Colombia,9,0.5683372672283867,Japan
+Colombia,10,0.32000501777660684,New Zealand
+Colombia,11,1.5186447366273082e-6,Republic of Korea
+Colombia,12,2.234736305891955e-6,Singapore
+Colombia,13,1.0034932365928081e-6,"Taiwan, Province of China"
+Colombia,14,1.085887083722187e-6,Turkey
+Colombia,15,0.04830931567410504,United States
+Israel,1,6.331851798060516e-7,Australia
+Israel,2,7.880419449886065e-8,Canada
+Israel,3,7.661165944937245e-8,Chile
+Israel,4,0.02819976236570945,"China, Hong Kong SAR"
+Israel,5,0.0012897656097852093,Colombia
+Israel,6,1.2267137320218853e-4,Costa Rica
+Israel,9,0.6376093294618743,Japan
+Israel,10,0.3326002154267829,New Zealand
+Israel,11,1.4470500955961457e-4,Republic of Korea
+Israel,12,2.086617362728109e-5,Singapore
+Israel,13,6.889926547155537e-11,"Taiwan, Province of China"
+Israel,14,3.1168428966842283e-6,Turkey
+Israel,15,8.779067543542572e-6,United States
+Japan,1,2.1533904854998264e-5,Australia
+Japan,2,1.5966224923051562e-4,Canada
+Japan,3,1.3938594945554897e-4,Chile
+Japan,4,0.0013112703489585296,"China, Hong Kong SAR"
+Japan,5,3.471020616963199e-4,Colombia
+Japan,6,1.990511816731062e-4,Costa Rica
+Japan,8,2.8145702601377058e-9,Israel
+Japan,10,0.4642083188877614,New Zealand
+Japan,11,2.7514202559125695e-4,Republic of Korea
+Japan,12,0.28461401623945787,Singapore
+Japan,13,1.7698140248730097e-4,"Taiwan, Province of China"
+Japan,14,1.6395675887668723e-4,Turkey
+Japan,15,0.24838357680093556,United States
+New Zealand,1,0.08677634365853285,Australia
+New Zealand,2,0.04755818550762418,Canada
+New Zealand,3,6.294334483061131e-5,Chile
+New Zealand,4,0.12647440288369366,"China, Hong Kong SAR"
+New Zealand,5,7.387005003792841e-5,Colombia
+New Zealand,6,6.99421367974535e-5,Costa Rica
+New Zealand,8,0.10203694158449467,Israel
+New Zealand,9,0.636742432634346,Japan
+New Zealand,11,8.084352872748815e-5,Republic of Korea
+New Zealand,12,4.364922640508889e-6,Singapore
+New Zealand,13,3.9708258489096725e-5,"Taiwan, Province of China"
+New Zealand,14,5.837622593561588e-5,Turkey
+New Zealand,15,2.1645264221101853e-5,United States
+Republic of Korea,1,5.124738920950873e-4,Australia
+Republic of Korea,2,2.278814281666723e-7,Canada
+Republic of Korea,3,8.882067222338794e-6,Chile
+Republic of Korea,4,0.04912902662991475,"China, Hong Kong SAR"
+Republic of Korea,5,1.3865054745834009e-5,Colombia
+Republic of Korea,6,1.2120542559196151e-5,Costa Rica
+Republic of Korea,8,0.013969378125171067,Israel
+Republic of Korea,9,0.590410907022886,Japan
+Republic of Korea,10,0.3108557047590528,New Zealand
+Republic of Korea,12,2.82911866283592e-5,Singapore
+Republic of Korea,13,6.832573604375388e-6,"Taiwan, Province of China"
+Republic of Korea,14,8.095154349950962e-6,Turkey
+Republic of Korea,15,0.035044195115583154,United States
+Singapore,1,2.947485392105348e-5,Australia
+Singapore,2,3.398813381021682e-4,Canada
+Singapore,3,1.5272553832478128e-5,Chile
+Singapore,4,0.07903404198949683,"China, Hong Kong SAR"
+Singapore,5,8.93272979791298e-6,Colombia
+Singapore,6,1.5434761567793137e-5,Costa Rica
+Singapore,8,0.02656533418761263,Israel
+Singapore,9,0.6516511139202744,Japan
+Singapore,10,0.24229794529625145,New Zealand
+Singapore,11,1.5817800220181786e-5,Republic of Korea
+Singapore,13,1.2721039479391804e-5,"Taiwan, Province of China"
+Singapore,14,1.4003047362140097e-5,Turkey
+Singapore,15,2.6491626361217826e-8,United States

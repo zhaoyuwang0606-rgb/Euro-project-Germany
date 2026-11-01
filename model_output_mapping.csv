@@ -1,0 +1,9 @@
+analysis,source_script,input_data,output_dir,paper_location
+Baseline Non-EU SCM,SCM_Analysis/noneu SCM result/run_scm_noneu.R,mpd2023_web.xlsx,scm_noneu,Section 5
+Wide SCM,SCM_Analysis/SCM_Results wide panel/run_scm wide panel.R,mpd2023_web.xlsx,scm_wide,Section 6.1
+Western SCM,SCM_Analysis/western SCM result/run_scm_western.R,mpd2023_web.xlsx,scm_western,Section 6.2
+DiD Analysis,results_did_to_2007/run_did_to_2007.R,mpd2023_web.xlsx,did_results,Section 7
+Japan/Poland LOO,SCM_Analysis/noneu_add_Japan_Poland_LOO/run_noneu_japan_poland_loo.R,mpd2023_web.xlsx,loo_japan_poland,Section 8.1
+FDI Inflows,SCM_Germany_Validation/03_FDI_Validation_Suite/run_fdi_suite.R,Full_NonEU_OECD_Panel.csv,fdi_analysis,Section 9.1
+China WTO Trade,SCM_Germany_Validation/07_China_WTO_Trade_Suite/run_china_wto_trade_scm.R,Biliteral trade with China.csv,china_wto,Section 9.3
+Hartz Expenditure,Replication/Code/run_replication_tidysynth.R,Analysis_Annual.dta,hartz_replication,Section 9.2

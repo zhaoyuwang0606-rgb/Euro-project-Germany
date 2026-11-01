@@ -1,0 +1,1 @@
+PASS: four completion markers; 19 outcomes; finite summary RMSE; unique years; gaps verified; full postperiod coverage; fitted SCM reconstructed from saved weights and input panels; complete placebo and active-donor LOO counts.

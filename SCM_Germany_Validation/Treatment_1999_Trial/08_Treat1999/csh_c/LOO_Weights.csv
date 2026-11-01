@@ -1,0 +1,66 @@
+excluded,unit_num,weight,country
+Canada,1,0.4424577416901684,Australia
+Canada,3,5.984951420712073e-7,Chile
+Canada,4,3.213942812147321e-7,"China, Hong Kong SAR"
+Canada,5,0.1470220360499279,Colombia
+Canada,6,9.979408465627445e-7,Costa Rica
+Canada,8,7.786218081342776e-7,Israel
+Canada,9,0.29618975062491704,Japan
+Canada,10,1.819935475767722e-6,New Zealand
+Canada,11,5.256269252302886e-7,Republic of Korea
+Canada,12,7.454084408386802e-7,Singapore
+Canada,13,1.0048148037307587e-6,"Taiwan, Province of China"
+Canada,14,4.173762096805044e-6,Turkey
+Canada,15,0.1143195056351537,United States
+"China, Hong Kong SAR",1,0.3824705689902351,Australia
+"China, Hong Kong SAR",2,0.004898583566037812,Canada
+"China, Hong Kong SAR",3,1.587198643504626e-4,Chile
+"China, Hong Kong SAR",5,0.17522305514160794,Colombia
+"China, Hong Kong SAR",6,7.943576727354601e-5,Costa Rica
+"China, Hong Kong SAR",8,1.5907683778763893e-4,Israel
+"China, Hong Kong SAR",9,0.32836739484587635,Japan
+"China, Hong Kong SAR",10,1.5556988859598882e-4,New Zealand
+"China, Hong Kong SAR",11,1.7348607445681619e-4,Republic of Korea
+"China, Hong Kong SAR",12,1.6606193121618436e-4,Singapore
+"China, Hong Kong SAR",13,1.5933852464401592e-4,"Taiwan, Province of China"
+"China, Hong Kong SAR",14,2.4267177023128486e-4,Turkey
+"China, Hong Kong SAR",15,0.10774603678334588,United States
+Colombia,1,2.0895964920292567e-4,Australia
+Colombia,2,0.3402876877520198,Canada
+Colombia,3,1.2964722046867293e-4,Chile
+Colombia,4,0.2109627131494645,"China, Hong Kong SAR"
+Colombia,6,3.6129272407033584e-4,Costa Rica
+Colombia,8,1.0293983728532682e-4,Israel
+Colombia,9,0.08441437348157683,Japan
+Colombia,10,1.183181897458363e-4,New Zealand
+Colombia,11,1.2741835318852857e-4,Republic of Korea
+Colombia,12,9.214155893735084e-5,Singapore
+Colombia,13,9.800478534825394e-5,"Taiwan, Province of China"
+Colombia,14,0.15199347959316542,Turkey
+Colombia,15,0.2111030236975405,United States
+Japan,1,0.003433113121604936,Australia
+Japan,2,0.44599972367957447,Canada
+Japan,3,0.0019886119450608156,Chile
+Japan,4,0.1580255146898007,"China, Hong Kong SAR"
+Japan,5,4.656587274983609e-5,Colombia
+Japan,6,0.0010819219489156574,Costa Rica
+Japan,8,0.0022889192690865104,Israel
+Japan,10,0.0018178407757232194,New Zealand
+Japan,11,2.0088779692360725e-5,Republic of Korea
+Japan,12,0.0022876610914152884,Singapore
+Japan,13,0.0022384225991179015,"Taiwan, Province of China"
+Japan,14,0.1766111398949876,Turkey
+Japan,15,0.20416047582042526,United States
+United States,1,9.219003921881628e-4,Australia
+United States,2,0.09555860861592638,Canada
+United States,3,1.8891580418709778e-5,Chile
+United States,4,0.028696437957029246,"China, Hong Kong SAR"
+United States,5,0.3086786595177177,Colombia
+United States,6,8.690804947872029e-6,Costa Rica
+United States,8,6.305971647479016e-6,Israel
+United States,9,0.5660623316489272,Japan
+United States,10,1.9738694170892588e-7,New Zealand
+United States,11,1.703069094058688e-5,Republic of Korea
+United States,12,8.646262157916589e-6,Singapore
+United States,13,9.207849952424748e-6,"Taiwan, Province of China"
+United States,14,1.3091319343957542e-5,Turkey

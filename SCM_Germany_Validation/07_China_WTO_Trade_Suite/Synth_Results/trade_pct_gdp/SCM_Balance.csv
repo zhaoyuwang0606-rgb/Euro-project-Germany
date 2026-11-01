@@ -1,0 +1,16 @@
+predictor,Treated,Synthetic,Sample Mean
+log_gdppc,10.4592,10.452,10.1098
+trade_open,0.6246,0.226,0.7717
+inv_share,0.2752,0.277,0.2863
+hc_idx,3.407,3.3432,2.8955
+special.trade_pct_gdp.1980.1986,0.0018,0.0043,0.1949
+special.trade_pct_gdp.1987.1993,0.0047,0.0061,0.2386
+special.trade_pct_gdp.1994.1998,0.0086,0.0114,0.3564
+special.trade_pct_gdp.1999.2001,0.0099,0.0137,0.29
+special.trade_pct_gdp.1995,0.0089,0.0115,0.4089
+special.trade_pct_gdp.1998,0.0086,0.0112,0.2817
+special.trade_pct_gdp.2000,0.0099,0.0141,0.2852
+special.trade_pct_gdp.2001,0.0108,0.015,0.2967
+special.log_gdppc.1990,10.4812,10.475,10.1056
+special.log_gdppc.2000,10.6431,10.6687,10.3545
+special.trade_open.1995,0.6977,0.2346,1.0823

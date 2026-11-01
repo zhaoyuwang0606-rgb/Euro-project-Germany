@@ -1,0 +1,13 @@
+excluded,unit_num,weight,country
+France,1,6.07383381099534e-8,Austria
+France,2,6.598062353766051e-8,Finland
+France,5,0.9999995247471453,Italy
+France,6,1.005382831922733e-7,Netherlands
+France,7,5.4139019086657633e-8,Portugal
+France,8,1.9385502441336168e-7,Spain
+Italy,1,3.254987786944748e-7,Austria
+Italy,2,1.3715811720990635e-7,Finland
+Italy,3,0.721004753997187,France
+Italy,6,1.651537898664712e-7,Netherlands
+Italy,7,1.4042072170477628e-6,Portugal
+Italy,8,0.2789932139695752,Spain

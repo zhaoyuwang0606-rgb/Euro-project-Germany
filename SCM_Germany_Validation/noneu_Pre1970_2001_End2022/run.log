@@ -1,0 +1,16 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning messages:
+=== Running noneu_Pre1970_2001_End2022 SCM ===
+1: package 'ggplot2' was built under R version 4.5.2 
+2: package 'tidyr' was built under R version 4.5.2 
+3: package 'tidysynth' was built under R version 4.5.3 
+Warning message:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+i Please use `linewidth` instead.
+i The deprecated feature was likely used in the tidysynth package.
+  Please report the issue to the authors. 
+Saved noneu_Pre1970_2001_End2022 SCM outputs successfully!

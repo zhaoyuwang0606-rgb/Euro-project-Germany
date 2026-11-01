@@ -1,0 +1,5 @@
+"variable","label","val_p","val_rank","post_p","post_rank","n_units","status"
+"asinh_inflows_pct","asinh(FDI Inward %)",0.0666666666666667,1,0.0666666666666667,1,15,"OK"
+"asinh_outflows_pct","asinh(FDI Outward %)",0.0666666666666667,1,0.666666666666667,10,15,"OK"
+"fdi_inflows_pct","FDI Inward Flow (% GDP)",0.0666666666666667,1,0.266666666666667,4,15,"OK"
+"fdi_outflows_pct","FDI Outward Flow (% GDP)",0.0666666666666667,1,0.6,9,15,"OK"

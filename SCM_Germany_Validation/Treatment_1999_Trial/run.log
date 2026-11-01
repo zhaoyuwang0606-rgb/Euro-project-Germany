@@ -1,0 +1,195 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning messages:
+1: package 'ggplot2' was built under R version 4.5.2 
+2: package 'tidyr' was built under R version 4.5.2 
+3: package 'Synth' was built under R version 4.5.3 
+4: package 'WDI' was built under R version 4.5.3 
+5: package 'pwt10' was built under R version 4.5.2 
+08 csh_i baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo China, Hong Kong SAR 
+ placebo Colombia 
+ placebo Costa Rica 
+ placebo Israel 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Republic of Korea 
+ placebo Singapore 
+ placebo Taiwan, Province of China 
+ placebo Turkey 
+ placebo United States 
+ LOO Australia 
+ LOO Canada 
+ LOO Japan 
+ LOO New Zealand 
+ LOO Turkey 
+ LOO United States 
+08 csh_x baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo China, Hong Kong SAR 
+ placebo Colombia 
+ placebo Costa Rica 
+ placebo Israel 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Republic of Korea 
+ placebo Singapore 
+ placebo Taiwan, Province of China 
+ placebo Turkey 
+ placebo United States 
+ LOO Chile 
+ LOO China, Hong Kong SAR 
+ LOO Japan 
+ LOO Taiwan, Province of China 
+ LOO Turkey 
+ LOO United States 
+08 csh_m baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo China, Hong Kong SAR 
+ placebo Colombia 
+ placebo Costa Rica 
+ placebo Israel 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Republic of Korea 
+ placebo Singapore 
+ placebo Taiwan, Province of China 
+ placebo Turkey 
+ placebo United States 
+ LOO Australia 
+ LOO Chile 
+ LOO China, Hong Kong SAR 
+ LOO Colombia 
+ LOO Costa Rica 
+ LOO Israel 
+ LOO Japan 
+ LOO New Zealand 
+ LOO Republic of Korea 
+ LOO Taiwan, Province of China 
+ LOO Turkey 
+ LOO United States 
+08 csh_c baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo China, Hong Kong SAR 
+ placebo Colombia 
+ placebo Costa Rica 
+ placebo Israel 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Republic of Korea 
+ placebo Singapore 
+ placebo Taiwan, Province of China 
+ placebo Turkey 
+ placebo United States 
+ LOO Canada 
+ LOO China, Hong Kong SAR 
+ LOO Colombia 
+ LOO Japan 
+ LOO United States 
+08 csh_g baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo China, Hong Kong SAR 
+ placebo Colombia 
+ placebo Costa Rica 
+ placebo Israel 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Republic of Korea 
+ placebo Singapore 
+ placebo Taiwan, Province of China 
+ placebo Turkey 
+ placebo United States 
+ LOO China, Hong Kong SAR 
+ LOO Colombia 
+ LOO Israel 
+ LOO Japan 
+ LOO New Zealand 
+ LOO Republic of Korea 
+ LOO Singapore 
+10 csh_i baseline/placebos/LOO
+ placebo Austria 
+ placebo Finland 
+ placebo France 
+ placebo Italy 
+ placebo Netherlands 
+ placebo Portugal 
+ placebo Spain 
+ LOO Austria 
+ LOO Finland 
+ LOO France 
+ LOO Italy 
+10 csh_x baseline/placebos/LOO
+ placebo Austria 
+ placebo Finland 
+ placebo France 
+ placebo Italy 
+ placebo Netherlands 
+ placebo Portugal 
+ placebo Spain 
+ LOO Austria 
+ LOO Finland 
+ LOO France 
+ LOO Italy 
+ LOO Netherlands 
+ LOO Portugal 
+ LOO Spain 
+10 csh_m baseline/placebos/LOO
+ placebo Austria 
+ placebo Finland 
+ placebo France 
+ placebo Italy 
+ placebo Netherlands 
+ placebo Portugal 
+ placebo Spain 
+ LOO France 
+ LOO Netherlands 
+ LOO Portugal 
+10 csh_c baseline/placebos/LOO
+ placebo Austria 
+ placebo Finland 
+ placebo France 
+ placebo Italy 
+ placebo Netherlands 
+ placebo Portugal 
+ placebo Spain 
+ LOO France 
+ LOO Italy 
+10 csh_g baseline/placebos/LOO
+ placebo Austria 
+ placebo Finland 
+ placebo France 
+ placebo Italy 
+ placebo Netherlands 
+ placebo Portugal 
+ placebo Spain 
+ LOO France 
+ LOO Italy 
+Attempt 1 of 5 to query WDI...
+WDI query failed or timed out. Retrying in 3 seconds...
+Attempt 2 of 5 to query WDI...
+WDI query failed or timed out. Retrying in 3 seconds...
+Attempt 3 of 5 to query WDI...
+WDI query failed or timed out. Retrying in 3 seconds...
+Attempt 4 of 5 to query WDI...
+WDI query failed or timed out. Retrying in 3 seconds...
+Attempt 5 of 5 to query WDI...
+WDI query failed or timed out. Retrying in 3 seconds...
+Error in fetch_wdi_with_retry(iso_map, c("NY.GDP.MKTP.CD", "SP.POP.TOTL"),  : 
+  Failed to download WDI data after multiple retries.
+Calls: prepare -> eval -> eval -> fetch_wdi_with_retry
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted

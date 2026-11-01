@@ -1,0 +1,61 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Warning messages:
+1: package 'ggplot2' was built under R version 4.5.2 
+2: package 'tidyr' was built under R version 4.5.2 
+3: package 'Synth' was built under R version 4.5.3 
+4: package 'WDI' was built under R version 4.5.3 
+5: package 'pwt10' was built under R version 4.5.2 
+07 exp_pct_gdp baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Singapore 
+ placebo Turkey 
+ placebo United States 
+ LOO Australia 
+ LOO Canada 
+ LOO Chile 
+ LOO Japan 
+ LOO New Zealand 
+ LOO Singapore 
+ LOO Turkey 
+ LOO United States 
+07 imp_pct_gdp baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Singapore 
+ placebo Turkey 
+ placebo United States 
+ LOO Australia 
+ LOO Canada 
+ LOO Japan 
+ LOO Singapore 
+ LOO Turkey 
+ LOO United States 
+07 trade_pct_gdp baseline/placebos/LOO
+ placebo Australia 
+ placebo Canada 
+ placebo Chile 
+ placebo Japan 
+ placebo New Zealand 
+ placebo Singapore 
+ placebo Turkey 
+ placebo United States 
+ LOO Australia 
+ LOO Canada 
+ LOO Chile 
+ LOO Japan 
+ LOO New Zealand 
+ LOO Singapore 
+ LOO Turkey 
+ LOO United States 
+COMPLETED 07 

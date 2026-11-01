@@ -1,0 +1,43 @@
+excluded,unit_num,weight,country
+Australia,2,2.3022667994812129e-4,Canada
+Australia,3,4.926365182137318e-4,Chile
+Australia,5,0.008663909300748975,Japan
+Australia,6,9.290129743459094e-4,New Zealand
+Australia,7,0.00905158145761189,Singapore
+Australia,8,0.31593729837826634,Turkey
+Australia,9,0.664695334691335,United States
+Canada,1,0.35308176000681,Australia
+Canada,3,5.958108378119968e-7,Chile
+Canada,5,0.002337756830888566,Japan
+Canada,6,1.936147361717455e-8,New Zealand
+Canada,7,0.004534494936835687,Singapore
+Canada,8,0.39386285624713674,Turkey
+Canada,9,0.24618251680796271,United States
+Japan,1,0.33322288506845754,Australia
+Japan,2,0.02828688826832494,Canada
+Japan,3,1.3612798537257238e-5,Chile
+Japan,6,8.421184477247316e-5,New Zealand
+Japan,7,0.004636034040717366,Singapore
+Japan,8,0.38677549838440395,Turkey
+Japan,9,0.24698086959669371,United States
+Singapore,1,0.2991955791250088,Australia
+Singapore,2,2.082153461310972e-6,Canada
+Singapore,3,4.191497901324297e-7,Chile
+Singapore,5,0.08008278688358207,Japan
+Singapore,6,8.500754065591913e-7,New Zealand
+Singapore,8,0.34570078407957816,Turkey
+Singapore,9,0.2750174985329,United States
+Turkey,1,8.200640519624193e-8,Australia
+Turkey,2,0.49506990607630835,Canada
+Turkey,3,0.25357894286587906,Chile
+Turkey,5,2.7642703815775223e-6,Japan
+Turkey,6,6.26761875366415e-8,New Zealand
+Turkey,7,5.264601447943799e-8,Singapore
+Turkey,9,0.2513481894588313,United States
+United States,1,0.4102491650270019,Australia
+United States,2,0.15317617368110223,Canada
+United States,3,7.262050937949238e-6,Chile
+United States,5,0.004455141815673691,Japan
+United States,6,8.361548116042998e-4,New Zealand
+United States,7,0.005940039041078606,Singapore
+United States,8,0.4253360635793384,Turkey
